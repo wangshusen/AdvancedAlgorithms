@@ -20,24 +20,52 @@ The focus of this course is advanced algorithms. We will quickly go over the bas
 3. **Divide and Conquer**.
 
 4. **Binary Trees**.
+	
+	* Binary tree.
+	
+	* K-d tree.
 
 5. **Heaps**.
 
 6. **Disjoint Sets**.
 
-7. **Graphs**.
+7. **Graph Basics**.
 
 	* Graph data structures.
 
 	* Shortest paths.
 
 	* Minimum spanning trees.
+	
+8. **Network Flow Problems**.
 
-8. **Dynamic Programming**.
+	* Maximum flow problem.
+
+	* Ford-Fulkerson algorithm and Edmonds–Karp algorithm.
+
+	* Dinic's algorithm.
+	
+	* Max-flow and min-cut.
+	
+9. **Bipartite Graphs**.
+
+	* Testing bipartiteness.
+
+	* Maximum cardinality bipartite matching.
+
+	* Maximum weight bipartite matching.
+	
+	* Stable marriage problem.
+
+10. **Dynamic Programming**.
 
 	* Fibonacci numbers.
 
 	* Climbing stairs.
+
+	* Longest common substring.
+
+	* Edit distance.
 
 	* Combinations of coins.
 
@@ -45,23 +73,19 @@ The focus of this course is advanced algorithms. We will quickly go over the bas
 
 	* All-pair shortest paths.
 
-9. **Hashing**.
 
-	* Hash table.
+11. **Numerical Algorithms**.
 
-	* Collision-resistant hash.
+	* Matrix multiplication.
 
-10. **Cryptographic Algorithms**.
+	* Fast matrix multiplication.
 
-	* RSA algorithm.
+	* Eigenvalue decomposition.
 
-11. **Blockchain**.
+	* Least squares and gradient descent.
 
-12. **Matrix Data Structure and Algorithms**.
 
-13. **Numerical Optimization Algorithms**.
-
-14. **Randomized Algorithms**.
+12. **Randomized Algorithms**.
 
 	* Monte Carlo algorithms.
 
@@ -70,5 +94,20 @@ The focus of this course is advanced algorithms. We will quickly go over the bas
 	* Pseudo random number generators.
 
 	* Fingerprinting.
+
+
+13. **Hashing**.
+
+	* Hash table.
+
+	* Collision-resistant hash.
+
+	* Locality sensitive hashing.
+
+14. **Cryptographic Algorithms**.
+
+	* RSA algorithm.
+
+15. **Blockchain**.
 
 
