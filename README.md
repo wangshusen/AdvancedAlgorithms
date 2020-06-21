@@ -2,12 +2,21 @@
 
 The focus of this course is advanced algorithms. We will quickly go over the basic data structures and algorithms. Most of the time will be spent on the advanced topics.
 
+
 ## Syllabus
 
+1. **Course Info**.
 
-1. **Basic Data Structures**.
+2. **Basic Data Structures**.
+	
+	* Array, vector, and linked list.
+	
+	* Binary search.
 
-2. **Sorting**.
+	* Skip list.
+
+
+3. **Sorting**.
 	
 	* Bubble sort.
 	
@@ -16,28 +25,49 @@ The focus of this course is advanced algorithms. We will quickly go over the bas
 	* Merge sort.
 	
 	* Quick sort.
-
-3. **Divide and Conquer**.
-
-4. **Binary Trees**.
 	
-	* Binary tree.
+	* Quick select.
 	
-	* K-d tree.
 
-5. **Heaps**.
+4. **Divide and Conquer**.
 
-6. **Disjoint Sets**.
 
-7. **Graph Basics**.
+5. **Matrix Data Structure and Algorithms**.
+	
+	* Addition and multiplication [[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/5_Matrix_1.pdf)].
+	
+	* Dense and sparse matrix data structures [[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/5_Matrix_2.pdf)].
+
+	* Fast matrix multiplication and Strassen algorithm [[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/5_Matrix_3.pdf)].
+	
+
+6. **Binary Trees**.
+	
+	* Tree basics.
+	
+	* Binary search tree.
+	
+
+7. **Priority Queues**.
+	
+	* Priority queues.
+	
+	* Binary heaps.
+	
+
+8. **Disjoint Sets**.
+
+
+9. **Graph Basics**.
 
 	* Graph data structures.
 
-	* Shortest paths.
+	* Single-source shortest paths.
 
 	* Minimum spanning trees.
-	
-8. **Network Flow Problems**.
+
+
+10. **Network Flow Problems**.
 
 	* Maximum flow problem.
 
@@ -46,8 +76,9 @@ The focus of this course is advanced algorithms. We will quickly go over the bas
 	* Dinic's algorithm.
 	
 	* Max-flow and min-cut.
-	
-9. **Bipartite Graphs**.
+
+
+11. **Bipartite Graphs**.
 
 	* Testing bipartiteness.
 
@@ -57,7 +88,8 @@ The focus of this course is advanced algorithms. We will quickly go over the bas
 	
 	* Stable marriage problem.
 
-10. **Dynamic Programming**.
+
+12. **Dynamic Programming**.
 
 	* Fibonacci numbers.
 
@@ -71,21 +103,15 @@ The focus of this course is advanced algorithms. We will quickly go over the bas
 
 	* Knapsack.
 
-	* All-pair shortest paths.
+
+13. **Strings**.
+
+	* Tries.
+
+	* KMP algorithm.
 
 
-11. **Numerical Algorithms**.
-
-	* Matrix multiplication.
-
-	* Fast matrix multiplication.
-
-	* Eigenvalue decomposition.
-
-	* Least squares and gradient descent.
-
-
-12. **Randomized Algorithms**.
+14. **Randomized Algorithms**.
 
 	* Monte Carlo algorithms.
 
@@ -93,10 +119,12 @@ The focus of this course is advanced algorithms. We will quickly go over the bas
 
 	* Pseudo random number generators.
 
+	* Random shuffling.
+
 	* Fingerprinting.
 
 
-13. **Hashing**.
+15. **Hashing**.
 
 	* Hash table.
 
@@ -104,10 +132,16 @@ The focus of this course is advanced algorithms. We will quickly go over the bas
 
 	* Locality sensitive hashing.
 
-14. **Cryptographic Algorithms**.
+
+16. **Cryptographic Algorithms**.
 
 	* RSA algorithm.
 
-15. **Blockchain**.
+	* Digital signature.
+
+	* Homomorphic encryption.
+
+
+17. **Blockchain**.
 
 
