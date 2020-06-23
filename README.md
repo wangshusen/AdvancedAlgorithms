@@ -9,11 +9,11 @@ The focus of this course is advanced algorithms. We will quickly go over the bas
 
 2. **Basic Data Structures**.
 	
-	* Array, vector, and linked list.
+	* Array, vector, and linked list [[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/2_Basic_1.pdf)].
 	
-	* Binary search.
+	* Binary search [[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/2_Basic_2.pdf)].
 
-	* Skip list.
+	* Skip list [[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/2_Basic_3.pdf)].
 
 
 3. **Sorting**.
