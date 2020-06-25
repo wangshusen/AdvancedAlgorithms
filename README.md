@@ -18,18 +18,20 @@ The focus of this course is advanced algorithms. We will quickly go over the bas
 
 3. **Sorting**.
 	
-	* Bubble sort.
+	* Bubble sort [[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/3_Sorting_1.pdf)].
 	
-	* Insertion sort.
+	* Insertion sort [[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/3_Sorting_2.pdf)].
 
-	* Merge sort.
+	* Merge sort [[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/3_Sorting_3.pdf)].
 	
-	* Quick sort.
+	* Quick sort [[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/3_Sorting_4.pdf)].
 	
-	* Quick select.
+	* Quick select [[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/3_Sorting_5.pdf)].
 	
 
 4. **Divide and Conquer**.
+	
+	* Master theorem [[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/4_DC.pdf)].
 
 
 5. **Matrix Data Structure and Algorithms**.
@@ -43,9 +45,11 @@ The focus of this course is advanced algorithms. We will quickly go over the bas
 
 6. **Binary Trees**.
 	
-	* Tree basics.
+	* Tree basics [[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/6_Trees_1.pdf)].
 	
-	* Binary search tree.
+	* Binary search tree 
+	  [[slides 1](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/6_Trees_2.pdf)]
+	  [[slides 2](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/6_Trees_3.pdf)].
 	
 
 7. **Priority Queues**.
