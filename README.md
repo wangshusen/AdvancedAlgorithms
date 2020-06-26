@@ -54,9 +54,9 @@ The focus of this course is advanced algorithms. We will quickly go over the bas
 
 7. **Priority Queues**.
 	
-	* Priority queues.
+	* Priority queues [[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/7_PQ_1.pdf)].
 	
-	* Binary heaps.
+	* Binary heaps [[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/7_PQ_2.pdf)].
 	
 
 8. **Disjoint Sets**.
