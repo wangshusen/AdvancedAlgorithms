@@ -1,9 +1,6 @@
 # CS600: Advanced Algorithms
 
-The focus of this course is advanced algorithms. We will quickly go over the basic data structures and algorithms. Most of the time will be spent on the advanced topics.
 
-
-## Syllabus
 
 1. **Course Info**.
 
@@ -48,8 +45,8 @@ The focus of this course is advanced algorithms. We will quickly go over the bas
 	* Tree basics [[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/6_Trees_1.pdf)].
 	
 	* Binary search tree 
-	  [[slides 1](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/6_Trees_2.pdf)]
-	  [[slides 2](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/6_Trees_3.pdf)].
+	  [[slides-1](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/6_Trees_2.pdf)]
+	  [[slides-2](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/6_Trees_3.pdf)].
 	
 
 7. **Priority Queues**.
@@ -61,12 +58,16 @@ The focus of this course is advanced algorithms. We will quickly go over the bas
 
 8. **Disjoint Sets**.
 
+	* Disjoint sets 
+	  [[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/8_Sets_1.pdf)].
 
 9. **Graph Basics**.
 
-	* Graph data structures.
+	* Graph data structures
+	  [[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/9_Graphs_1.pdf)].
 
-	* Single-source shortest paths.
+	* Single-source shortest paths
+	  [[slides-1](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/9_Graphs_2.pdf)].
 
 	* Minimum spanning trees.
 
