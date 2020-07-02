@@ -67,9 +67,14 @@
 	  [[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/9_Graphs_1.pdf)].
 
 	* Single-source shortest paths
-	  [[slides-1](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/9_Graphs_2.pdf)].
+	  [[slides-1](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/9_Graphs_2.pdf)]
+	  [[slides-2](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/9_Graphs_3.pdf)]
+	  [[slides-3](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/9_Graphs_4.pdf)].
 
-	* Minimum spanning trees.
+	* Minimum spanning trees
+	  [[slides-1](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/9_Graphs_5.pdf)]
+	  [[slides-2](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/9_Graphs_6.pdf)]
+	  [[slides-3](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/9_Graphs_7.pdf)].
 
 
 10. **Network Flow Problems**.
