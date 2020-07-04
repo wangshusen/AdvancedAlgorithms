@@ -79,13 +79,17 @@
 
 10. **Network Flow Problems**.
 
-	* Maximum flow problem.
+	* Maximum flow problem
+	  [[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/10_Flow_1.pdf)].
 
-	* Ford-Fulkerson algorithm and Edmonds–Karp algorithm.
+	* Ford-Fulkerson algorithm and Edmonds–Karp algorithm
+	  [[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/10_Flow_2.pdf)].
 
-	* Dinic's algorithm.
+	* Dinic's algorithm
+	  [[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/10_Flow_3.pdf)].
 	
-	* Max-flow and min-cut.
+	* Max-flow and min-cut
+	  [[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/10_Flow_4.pdf)].
 
 
 11. **Bipartite Graphs**.
