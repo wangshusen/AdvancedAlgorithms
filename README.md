@@ -94,13 +94,17 @@
 
 11. **Bipartite Graphs**.
 
-	* Testing bipartiteness.
+	* Testing bipartiteness
+	  [[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/11_BiGraph_1.pdf)].
 
-	* Maximum cardinality bipartite matching.
+	* Maximum cardinality bipartite matching
+	  [[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/11_BiGraph_2.pdf)].
 
-	* Maximum weight bipartite matching.
+	* Maximum weight bipartite matching
+	  [[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/11_BiGraph_3.pdf)].
 	
-	* Stable marriage problem.
+	* Stable marriage problem
+	  [[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/11_BiGraph_4.pdf)].
 
 
 12. **Dynamic Programming**.
