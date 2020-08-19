@@ -6,11 +6,17 @@
 
 2. **Basic Data Structures**.
 	
-	* Array, vector, and linked list [[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/2_Basic_1.pdf)].
+	* Array, vector, and linked list 
+	[[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/2_Basic_1.pdf)]
+	[[video](https://youtu.be/em-gio2pHs0)].
 	
-	* Binary search [[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/2_Basic_2.pdf)].
+	* Binary search 
+	[[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/2_Basic_2.pdf)]
+	[[video](https://youtu.be/EKcwsE_CWL0)].
 
-	* Skip list [[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/2_Basic_3.pdf)].
+	* Skip list
+	[[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/2_Basic_3.pdf)]
+	[[video](https://youtu.be/veUninrjGCA)].
 
 
 3. **Sorting**.
@@ -42,7 +48,9 @@
 
 6. **Binary Trees**.
 	
-	* Tree basics [[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/6_Trees_1.pdf)].
+	* Tree basics 
+	[[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/6_Trees_1.pdf)]
+	[[video](https://youtu.be/Jz6YlclQMgM)].
 	
 	* Binary search tree 
 	  [[slides-1](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/6_Trees_2.pdf)]
