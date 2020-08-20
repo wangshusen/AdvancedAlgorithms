@@ -8,15 +8,15 @@
 	
 	* Array, vector, and linked list 
 	[[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/2_Basic_1.pdf)]
-	[[video](https://youtu.be/em-gio2pHs0)].
+	[[video](https://youtu.be/Ign3VHqNybs)].
 	
 	* Binary search 
 	[[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/2_Basic_2.pdf)]
-	[[video](https://youtu.be/EKcwsE_CWL0)].
+	[[video](https://youtu.be/yfHcb1hXt3s)].
 
 	* Skip list
 	[[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/2_Basic_3.pdf)]
-	[[video](https://youtu.be/veUninrjGCA)].
+	[[video](https://youtu.be/UGaOXaXAM5M)].
 
 
 3. **Sorting**.
@@ -50,11 +50,13 @@
 	
 	* Tree basics 
 	[[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/6_Trees_1.pdf)]
-	[[video](https://youtu.be/Jz6YlclQMgM)].
+	[[video](https://youtu.be/yfHcb1hXt3s)].
 	
-	* Binary search tree 
-	  [[slides-1](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/6_Trees_2.pdf)]
-	  [[slides-2](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/6_Trees_3.pdf)].
+	* Binary search tree: search and insertion 
+	[[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/6_Trees_2.pdf)].
+	  
+	* Binary search tree: deletion 
+	[[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/6_Trees_3.pdf)].
 	
 
 7. **Priority Queues**.
