@@ -50,7 +50,7 @@
 	
 	* Tree basics 
 	[[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/6_Trees_1.pdf)]
-	[[video](https://youtu.be/yfHcb1hXt3s)].
+	[[video](https://youtu.be/HWPLrH-n0-k)].
 	
 	* Binary search tree: search and insertion 
 	[[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/6_Trees_2.pdf)].
