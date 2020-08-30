@@ -21,9 +21,10 @@
 
 3. **Sorting**.
 	
-	* Bubble sort [[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/3_Sorting_1.pdf)].
+	* Insertion sort [[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/3_Sorting_1.pdf)]
+	[[video](https://youtu.be/m5UJM-0gtD8)].
 	
-	* Insertion sort [[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/3_Sorting_2.pdf)].
+	* Bubble sort [[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/3_Sorting_2.pdf)].
 
 	* Merge sort [[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/3_Sorting_3.pdf)].
 	
@@ -55,8 +56,11 @@
 	* Binary search tree: search and insertion 
 	[[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/6_Trees_2.pdf)].
 	  
-	* Binary search tree: deletion 
+	* Binary search tree: traversal 
 	[[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/6_Trees_3.pdf)].
+	  
+	* Binary search tree: deletion 
+	[[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/6_Trees_4.pdf)].
 	
 
 7. **Priority Queues**.
@@ -119,7 +123,8 @@
 
 12. **Dynamic Programming**.
 
-	* Fibonacci numbers.
+	* Fibonacci numbers
+	[[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/12_DP_1.pdf)].
 
 	* Climbing stairs.
 
