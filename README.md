@@ -126,15 +126,20 @@
 	* Fibonacci numbers
 	[[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/12_DP_1.pdf)].
 
-	* Climbing stairs.
+	* Climbing stairs
+	[[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/12_DP_2.pdf)].
 
-	* Longest common substring.
+	* Longest common substring
+	[[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/12_DP_3.pdf)].
 
-	* Edit distance.
+	* Edit distance
+	[[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/12_DP_4.pdf)].
 
-	* Combinations of coins.
+	* Combinations of coins
+	[[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/12_DP_5.pdf)].
 
-	* Knapsack.
+	* Knapsack
+	[[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/12_DP_6.pdf)].
 
 
 13. **Strings**.
