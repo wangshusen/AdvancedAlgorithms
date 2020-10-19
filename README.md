@@ -145,8 +145,11 @@
 13. **Strings**.
 
 	* Tries.
+	  [[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/13_String_1.pdf)].
 
 	* KMP algorithm.
+	  [[slides-1](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/13_String_2.pdf)]
+	  [[slides-2](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/13_String_3.pdf)].
 
 
 14. **Randomized Algorithms**.
