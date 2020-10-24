@@ -154,13 +154,16 @@
 
 14. **Randomized Algorithms**.
 
-	* Monte Carlo algorithms.
+	* Monte Carlo algorithms
+	  [[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/14_Rand_1.pdf)].
 
-	* Concentration inequalities.
+	* Concentration inequalities
+	  [[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/14_Rand_2.pdf)].
 
 	* Pseudo random number generators.
 
-	* Random shuffling.
+	* Random shuffling
+	  [[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/14_Rand_4.pdf)].
 
 	* Fingerprinting.
 
