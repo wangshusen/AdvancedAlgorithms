@@ -170,20 +170,26 @@
 
 15. **Hashing**.
 
-	* Hash table.
+	* Hash table
+	  [[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/15_Hash_1.pdf)].
 
-	* Collision-resistant hash.
+	* Collision-resistant hash
+	  [[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/15_Hash_2.pdf)].
 
-	* Locality sensitive hashing.
+	* Locality sensitive hashing
+	  [[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/15_Hash_3.pdf)].
 
 
 16. **Cryptographic Algorithms**.
 
-	* RSA algorithm.
+	* RSA algorithm
+	  [[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/16_Crypto_1.pdf)].
 
-	* Digital signature.
+	* Digital signature
+	  [[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/16_Crypto_2.pdf)].
 
-	* Homomorphic encryption.
+	* Homomorphic encryption
+	  [[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/16_Crypto_3.pdf)].
 
 
 17. **Blockchain**.
