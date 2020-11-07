@@ -192,6 +192,15 @@
 	  [[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/16_Crypto_3.pdf)].
 
 
-17. **Blockchain**.
+17. **Crypto Currency**.
+
+	* Decentralized payment system
+	  [[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/17_CryptoCurrency_1.pdf)].
+
+	* Blockchain
+	  [[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/17_CryptoCurrency_2.pdf)].
+
+	* Merkel tree
+	  [[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/17_CryptoCurrency_3.pdf)].
 
 
