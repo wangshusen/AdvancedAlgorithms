@@ -80,6 +80,10 @@
 	* Graph data structures
 	  [[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/9_Graphs_1.pdf)].
 
+	* Topological sort
+	  [[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/9_Graphs_2.pdf)].
+	  
+
 10. **Shortest Paths**.
 
 	* Shortest path problem
