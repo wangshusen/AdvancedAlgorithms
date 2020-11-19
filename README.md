@@ -172,7 +172,9 @@
 16. **Randomized Algorithms**.
 
 	* Monte Carlo algorithms
-	  [[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/16_Rand_1.pdf)].
+	  [[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/16_Rand_1.pdf)]
+	  [[Video (English)](https://youtu.be/CmpWM2HMhxw)]
+	  [[Video (Chinese)](https://youtu.be/XRGquU0ZJok)].
 
 	* Concentration inequalities
 	  [[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/16_Rand_2.pdf)].
