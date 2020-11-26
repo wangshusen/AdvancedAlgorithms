@@ -8,21 +8,21 @@
 	
 	* Array, vector, and linked list 
 	[[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/2_Basic_1.pdf)]
-	[[video](https://youtu.be/Ign3VHqNybs)].
+	[[video (English)](https://youtu.be/Ign3VHqNybs)].
 	
 	* Binary search 
 	[[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/2_Basic_2.pdf)]
-	[[video](https://youtu.be/yfHcb1hXt3s)].
+	[[video (English)](https://youtu.be/yfHcb1hXt3s)].
 
 	* Skip list
 	[[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/2_Basic_3.pdf)]
-	[[video](https://youtu.be/UGaOXaXAM5M)].
+	[[video (English)](https://youtu.be/UGaOXaXAM5M)].
 
 
 3. **Sorting**.
 	
 	* Insertion sort [[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/3_Sorting_1.pdf)]
-	[[video](https://youtu.be/m5UJM-0gtD8)].
+	[[video (English)](https://youtu.be/m5UJM-0gtD8)].
 	
 	* Bubble sort [[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/3_Sorting_2.pdf)].
 
@@ -40,9 +40,14 @@
 
 5. **Matrix Data Structure and Algorithms**.
 	
-	* Addition and multiplication [[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/5_Matrix_1.pdf)].
+	* Addition and multiplication [[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/5_Matrix_1.pdf)]
+	  [[video (English)](https://youtu.be/ZTtW6SMTmcY)]
+	  [[video (Chinese)](https://youtu.be/PzhMlw7xVs0)].
 	
-	* Dense and sparse matrix data structures [[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/5_Matrix_2.pdf)].
+	* Dense and sparse matrix data structures [[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/5_Matrix_2.pdf)]
+	  [[video (English)](https://youtu.be/fy_dSZb-Xx8)]
+	  [[video (Chinese)](https://youtu.be/2KsvAa5zJt8)].
+
 
 	* Fast matrix multiplication and Strassen algorithm [[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/5_Matrix_3.pdf)].
 	
@@ -173,8 +178,8 @@
 
 	* Monte Carlo algorithms
 	  [[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/16_Rand_1.pdf)]
-	  [[Video (English)](https://youtu.be/CmpWM2HMhxw)]
-	  [[Video (Chinese)](https://youtu.be/XRGquU0ZJok)].
+	  [[video (English)](https://youtu.be/CmpWM2HMhxw)]
+	  [[video (Chinese)](https://youtu.be/XRGquU0ZJok)].
 
 	* Concentration inequalities
 	  [[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/16_Rand_2.pdf)].
