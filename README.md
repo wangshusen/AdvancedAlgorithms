@@ -187,7 +187,9 @@
 	* Pseudo random number generators.
 
 	* Random shuffling
-	  [[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/16_Rand_4.pdf)].
+	  [[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/16_Rand_4.pdf)]
+	  [[video (English)](https://youtu.be/xaSBvljOQkc)]
+	  [[video (Chinese)](https://youtu.be/1m68x5Gy5No)].
 
 	* Fingerprinting.
 
