@@ -7,65 +7,70 @@
 2. **Basic Data Structures**.
 	
 	* Array, vector, and linked list 
-	[[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/2_Basic_1.pdf)]
+	[[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/02_Basic_1.pdf)]
 	[[video (English)](https://youtu.be/Ign3VHqNybs)].
 	
 	* Binary search 
-	[[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/2_Basic_2.pdf)]
+	[[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/02_Basic_2.pdf)]
 	[[video (English)](https://youtu.be/yfHcb1hXt3s)].
 
 	* Skip list
-	[[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/2_Basic_3.pdf)]
+	[[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/02_Basic_3.pdf)]
 	[[video (English)](https://youtu.be/UGaOXaXAM5M)].
 
 
 3. **Sorting**.
 	
-	* Insertion sort [[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/3_Sorting_1.pdf)]
+	* Insertion sort [[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/03_Sorting_1.pdf)]
 	[[video (English)](https://youtu.be/m5UJM-0gtD8)].
 	
-	* Bubble sort [[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/3_Sorting_2.pdf)].
+	* Bubble sort [[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/03_Sorting_2.pdf)].
 
-	* Merge sort [[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/3_Sorting_3.pdf)].
+	* Merge sort [[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/03_Sorting_3.pdf)].
 	
-	* Quick sort [[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/3_Sorting_4.pdf)].
+	* Quick sort [[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/03_Sorting_4.pdf)].
 	
-	* Quick select [[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/3_Sorting_5.pdf)].
+	* Quick select [[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/03_Sorting_5.pdf)].
 	
 
 4. **Divide and Conquer**.
 	
-	* Master theorem [[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/4_DC.pdf)].
+	* Master theorem [[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/04_DC.pdf)].
 
 
 5. **Matrix Data Structure and Algorithms**.
 	
-	* Addition and multiplication [[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/5_Matrix_1.pdf)]
+	* Addition and multiplication 
+	  [[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/05_Matrix_1.pdf)]
 	  [[video (English)](https://youtu.be/ZTtW6SMTmcY)]
 	  [[video (Chinese)](https://youtu.be/PzhMlw7xVs0)].
 	
-	* Dense and sparse matrix data structures [[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/5_Matrix_2.pdf)]
+	* Dense matrix data structures 
+	  [[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/05_Matrix_2.pdf)]
 	  [[video (English)](https://youtu.be/fy_dSZb-Xx8)]
 	  [[video (Chinese)](https://youtu.be/2KsvAa5zJt8)].
+	
+	* Sparse matrix data structures 
+	  [[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/05_Matrix_3.pdf)]
 
-
-	* Fast matrix multiplication and Strassen algorithm [[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/5_Matrix_3.pdf)].
+	* Fast matrix multiplication and Strassen algorithm 
+	  [[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/05_Matrix_4.pdf)].
 	
 
 6. **Binary Trees**.
 	
 	* Tree basics 
-	[[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/6_Trees_1.pdf)]
+	[[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/06_Trees_1.pdf)]
 	[[video](https://youtu.be/HWPLrH-n0-k)].
 	
 	* Binary search tree: search and insertion 
-	[[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/6_Trees_2.pdf)].
+	[[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/06_Trees_2.pdf)].
 	  
 	* Binary search tree: traversal 
-	[[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/6_Trees_3.pdf)].
+	[[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/06_Trees_3.pdf)].
 	  
 	* Binary search tree: deletion 
-	[[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/6_Trees_4.pdf)].
+	[[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/06_Trees_4.pdf)].
 	
 	
 7. **Balanced Trees**.
@@ -73,15 +78,15 @@
 
 8. **Priority Queues**.
 	
-	* Priority queues [[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/8_PQ_1.pdf)].
+	* Priority queues [[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/08_PQ_1.pdf)].
 	
-	* Binary heaps [[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/8_PQ_2.pdf)].
+	* Binary heaps [[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/08_PQ_2.pdf)].
 	
 
 9. **Disjoint Sets**.
 
 	* Disjoint sets 
-	  [[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/9_Sets_1.pdf)].
+	  [[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/09_Sets_1.pdf)].
 
 
 10. **Graph Basics**.
