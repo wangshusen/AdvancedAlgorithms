@@ -8,15 +8,18 @@
 	
 	* Array, vector, and linked list 
 	[[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/02_Basic_1.pdf)]
-	[[video (English)](https://youtu.be/Ign3VHqNybs)].
+	[[video (English)](https://youtu.be/Ign3VHqNybs)]
+	[[video (Chinese)](https://youtu.be/zxHYm3PqdAE)].
 	
 	* Binary search 
 	[[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/02_Basic_2.pdf)]
-	[[video (English)](https://youtu.be/yfHcb1hXt3s)].
+	[[video (English)](https://youtu.be/yfHcb1hXt3s)]
+	[[video (Chinese)](https://youtu.be/RH3tZldhjJ0)].
 
 	* Skip list
 	[[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/02_Basic_3.pdf)]
-	[[video (English)](https://youtu.be/UGaOXaXAM5M)].
+	[[video (English)](https://youtu.be/UGaOXaXAM5M)]
+	[[video (Chinese)](https://youtu.be/m6m0pnsOzN4)].
 
 
 3. **Sorting**.
@@ -61,7 +64,7 @@
 	
 	* Tree basics 
 	[[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/06_Trees_1.pdf)]
-	[[video](https://youtu.be/HWPLrH-n0-k)].
+	[[video (English)](https://youtu.be/HWPLrH-n0-k)].
 	
 	* Binary search tree: search and insertion 
 	[[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/06_Trees_2.pdf)].
@@ -92,7 +95,9 @@
 10. **Graph Basics**.
 
 	* Graph data structures
-	  [[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/10_Graphs_1.pdf)].
+	[[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/10_Graphs_1.pdf)]
+	[[video (Chinese)](https://youtu.be/JS9MB8tp0eY)].
+
 
 	* Topological sort
 	  [[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/10_Graphs_2.pdf)].
@@ -101,64 +106,98 @@
 11. **Shortest Paths**.
 
 	* Shortest path problem
-	  [[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/11_Path_1.pdf)].
+	[[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/11_Path_1.pdf)]
+	[[video (Chinese)](https://youtu.be/tsVUDM_lYKo)].
+
 	  
 	* Single-source shortest path in unweighted graphs
-	  [[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/11_Path_2.pdf)].
+	[[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/11_Path_2.pdf)]
+	[[video (Chinese)](https://youtu.be/e7unEsKHW54)].
+
 	  
 	* Single-source shortest path in weighted graphs
-	  [[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/11_Path_3.pdf)].
+	[[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/11_Path_3.pdf)]
+	[[video (Chinese)](https://youtu.be/uyNJxsH16nc)].
+
 
 
 12. **Minimum Spanning Trees**.
 
 	* Spanning trees
-	  [[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/12_Span_1.pdf)].
+	[[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/12_Span_1.pdf)]
+	[[video (Chinese)](https://youtu.be/KsobpcI3dN0)].
+
 	  
 	* Prim's algorithm
-	  [[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/12_Span_2.pdf)].
+	[[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/12_Span_2.pdf)]
+	[[video (Chinese)](https://youtu.be/GLlIaT_PxVE)].
+
 	  
 	* Kruskal's algorithm
-	  [[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/12_Span_3.pdf)].
+	[[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/12_Span_3.pdf)]
+	[[video (Chinese)](https://youtu.be/Z4jm4o2bt28)].
+
 
 
 13. **Network Flow Problems**.
 
 	* Maximum flow problem
-	  [[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/13_Flow_1.pdf)].
+	[[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/13_Flow_1.pdf)]
+	[[video (Chinese)](https://youtu.be/6DFWUgV5Osc)].
+
 
 	* Ford-Fulkerson algorithm
-	  [[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/13_Flow_2.pdf)].
+	[[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/13_Flow_2.pdf)]
+	[[video (Chinese)](https://youtu.be/8sLON0DqLZo)].
+
 
 	* Edmonds–Karp algorithm
-	  [[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/13_Flow_3.pdf)].
+	[[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/13_Flow_3.pdf)]
+	[[video (Chinese)](https://youtu.be/l-5W0ffPsDo)].
+
 
 	* Dinic's algorithm
-	  [[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/13_Flow_4.pdf)].
+	[[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/13_Flow_4.pdf)]
+	[[video (Chinese)](https://youtu.be/mtxzaGFLIAo)].
+
 	
 	* Max-flow and min-cut
-	  [[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/13_Flow_5.pdf)].
+	[[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/13_Flow_5.pdf)]
+	[[video (Chinese)](https://youtu.be/Ev_lFSIzNh4)].
+
 
 
 14. **Bipartite Graphs**.
 
 	* Testing bipartiteness
-	  [[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/14_BiGraph_1.pdf)].
+	[[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/14_BiGraph_1.pdf)]
+	[[video (Chinese)](https://youtu.be/lyH43SAcyjc)].
+
 
 	* Maximum cardinality bipartite matching
-	  [[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/14_BiGraph_2.pdf)].
+	[[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/14_BiGraph_2.pdf)]
+	[[video (Chinese)](https://youtu.be/cndaoZ6XTxA)].
+
 
 	* Maximum weight bipartite matching
-	  [[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/14_BiGraph_3.pdf)].
+	[[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/14_BiGraph_3.pdf)]
+	[[video (Chinese)](https://youtu.be/7yN_KZijerA)].
+
 
 	* Hungarian algorithm
-	  [[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/14_BiGraph_4.pdf)].
+	[[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/14_BiGraph_4.pdf)]
+	[[video (Chinese)](https://youtu.be/bSoZQkxc1Zw)].
+
 	
 	* Stable marriage problem
-	  [[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/14_BiGraph_5.pdf)].
+	[[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/14_BiGraph_5.pdf)]
+	[[video (Chinese)](https://youtu.be/qwA5QNqyK08)].
+
 	
 	* Gale-Shapley algorithm
-	  [[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/14_BiGraph_6.pdf)].
+	[[slides](https://github.com/wangshusen/AdvancedAlgorithms/blob/master/Slides/14_BiGraph_6.pdf)]
+	[[video (Chinese)](https://youtu.be/nYTTv9GL7gw)].
+
 
 
 15. **Dynamic Programming**.
